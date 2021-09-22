@@ -53,7 +53,24 @@
 </br>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainik-khaddar&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
+<!--   <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" style="max-width:100%" float="right"> -->
+  
+  <p align="center"> 
+ <img   src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" style="max-width:100%" float="right">
+  
+<!--   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajAdwaita&theme=light&hide_langs_below=1" style="max-width:100%" style="margin-left:225px"> -->
+   <!-- 
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&bg_color=191919&text_color=daf7dc" alt="rajadwaita" /></p> -->
 
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=rajadwaita&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rajadwaita" />
+</p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajadwaita&show_icons=true&locale=en" alt="rajadwaita" /></p> -->
+</br>
+<p align="center">
+ <a>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rajadwaita&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="rajadwaita" /></a>
+</p>
 
 
 
