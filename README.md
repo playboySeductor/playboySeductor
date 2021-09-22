@@ -49,8 +49,7 @@
 </br>
 
 ## 📊 My Github Stats
-![Sainik's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=RajAdwaita&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-</br>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainik-khaddar&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
 <!--   <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" style="max-width:100%" float="right"> -->
