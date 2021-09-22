@@ -3,9 +3,11 @@
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
 
 ### Hola codefreaks, I'm SAINIK 👋
-
-[![twitter badge](https://img.shields.io/badge/twitter-SAINIK_KNIGHT-0077b5?style=social&logo=twitter)](https://twitter.com/SainikKnight)
 <i>TALK IS CHEAP. SHOW ME THE CODE</i>
+<br>
+## 📚 My StartUp
+<img src="https://yt3.ggpht.com/Gj-Dx0a2lCJfjVEK0gVvvwVoP6X1_P3V3cPr2jX6d3qxFTiyKwM0DWPyID9flxFt5QT6h6PBoQ=s900-c-k-c0x00ffffff-no-rj">
+
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
