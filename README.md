@@ -19,6 +19,11 @@
 - 💬 Ask me about open source, computer vision, machine learning, android development, flutter development and communities.
 - 📫 How to reach me: Send an email to me at [yash@amfoss.in](mailto:yash@amfoss.in) or ping me on Telegram, [@yashk2000](https://t.me/yashk2000).
 - ⚡ Fun fact: I use a laptop with a cracked screen.
+- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
+
+</br>
+
+
 
 ### Connect with me:
 <p align="left">
@@ -38,10 +43,6 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainik-khaddar&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
 
-
-<p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
-
-</br>
 
 
 
