@@ -18,7 +18,7 @@
 - 📫 How to reach me: Send an email to me at [yash@amfoss.in](mailto:yash@amfoss.in) or ping me on Telegram, [@yashk2000](https://t.me/yashk2000).
 - ⚡ Fun fact: I use a laptop with a cracked screen.
 
-![Yash's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=yashk2000&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Yash's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sainik-khaddar&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
