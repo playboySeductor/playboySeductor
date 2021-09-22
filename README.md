@@ -10,6 +10,8 @@
 
 ![](https://komarev.com/ghpvc/?username=yashk2000)
 
+## 🙋‍♂️ About Me
+
 - 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
 - :robot: I’m currently working on reinforcement learning and the security in neural networks.
 - 🙇‍♂️ I'm into learning about deep learning, computer vision and have recently started exploring security and privacy in AI. 
