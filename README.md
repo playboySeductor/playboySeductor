@@ -8,7 +8,13 @@
 [![linkedin badge](https://img.shields.io/badge/linkedin-WarriorKnightCodefreak-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/sainik-khaddar-2295a31b6/)
 [![blog badge](https://img.shields.io/badge/blog-sainik-khaddar.github.io/blog-1f425f?style=social&logo=blog)](https://dreamacademia.netlify.app)
 
-![](https://komarev.com/ghpvc/?username=yashk2000)
+ ## ❤ Views and Followers
+  <p>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sainik-khaddar">
+</a>
+<a href="https://github.com/RajAdwaita?tab=followers"><img src="https://img.shields.io/github/followers/RajAdwaita?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 ## 🙋‍♂️ About Me
 
