@@ -8,7 +8,7 @@
 [![linkedin badge](https://img.shields.io/badge/linkedin-WarriorKnightCodefreak-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/sainik-khaddar-2295a31b6/)
 [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)
 
-![](https://komarev.com/ghpvc/?username=yashk2000)
+![](https://komarev.com/ghpvc/?username=sainik-khaddar)
 
 - 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
 - :robot: I’m currently working on reinforcement learning and the security in neural networks.
