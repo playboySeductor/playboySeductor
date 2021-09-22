@@ -33,10 +33,10 @@
 ### Connect with me:
 <p align="left">
 <a href="https://twitter.com/adwaitaraj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaitaraj001" height="30" width="40" /></a>&nbsp
-<a href="https://linkedin.com/in/adwaita raj modak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
-<a href="https://www.codechef.com/users/raj2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="raj2002" height="30" width="40" /></a>&nbsp
+<a href="https://www.linkedin.com/in/sainik-khaddar-2295a31b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/adwaitaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adwaitaraj" height="30" width="40" /></a>&nbsp
-<a href="https://codeforces.com/profile/rajadwaita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rajadwaita" height="30" width="40" /></a>&nbsp
+<a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/63670791?s=200&v=4" alt="rajmodak" height="30" width="40" /></a>&nbsp
+
 <a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmodak" height="30" width="40" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/adwaitaraj/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitaraj/profile" height="30" width="40" /></a>&nbsp
 </p>
