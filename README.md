@@ -35,9 +35,9 @@
 <a href="https://twitter.com/adwaitaraj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaitaraj001" height="30" width="40" /></a>&nbsp
 <a href="https://www.linkedin.com/in/sainik-khaddar-2295a31b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/adwaitaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adwaitaraj" height="30" width="40" /></a>&nbsp
-<a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/63670791?s=200&v=4" alt="rajmodak" height="30" width="40" /></a>&nbsp
-<a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmodak" height="30" width="40" /></a>&nbsp
-<a href="https://auth.geeksforgeeks.org/user/adwaitaraj/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitaraj/profile" height="30" width="40" /></a>&nbsp
+<a href="https://www.codingninjas.com/codestudio/profile/0a8162d2-b7d9-4ead-b3c7-90acf9f77e9f" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/63670791?s=200&v=4" alt="rajmodak" height="30" width="40" /></a>&nbsp
+<a href="https://leetcode.com/sainikwarror132/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmodak" height="30" width="40" /></a>&nbsp
+<a href="https://auth.geeksforgeeks.org/user/sainikcodefreak/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitaraj/profile" height="30" width="40" /></a>&nbsp
 </p>
 </br></br>
 
