@@ -19,6 +19,14 @@
 - ⚡ Fun fact: I use a laptop with a cracked screen.
 
 ![Sainik's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=sainik-khaddar&show_icons=true&hide_border=false&title_color=03E6FF&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+</br>
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainik-khaddar&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
+
+
+<p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
+
+</br>
 
 
 
