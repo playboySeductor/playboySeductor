@@ -5,17 +5,6 @@
 ### Hola codefreaks, I'm SAINIK 👋
 
 [![twitter badge](https://img.shields.io/badge/twitter-SAINIK_KNIGHT-0077b5?style=social&logo=twitter)](https://twitter.com/SainikKnight)
-[![linkedin badge](https://img.shields.io/badge/linkedin-WarriorKnightCodefreak-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/sainik-khaddar-2295a31b6/)
-[![blog badge](https://img.shields.io/badge/blog-sainik-khaddar.github.io/blog-1f425f?style=social&logo=blog)](https://dreamacademia.netlify.app)
-
- ## ❤ Views and Followers
-  <p>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sainik-khaddar">
-</a>
-<a href="https://github.com/RajAdwaita?tab=followers"><img src="https://img.shields.io/github/followers/RajAdwaita?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
@@ -28,6 +17,16 @@
 - <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
 
 </br>
+
+
+ ## ❤ Views and Followers
+  <p>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=sainik-khaddar">
+</a>
+<a href="https://github.com/RajAdwaita?tab=followers"><img src="https://img.shields.io/github/followers/RajAdwaita?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 
 
 
