@@ -4,8 +4,8 @@
 
 ### Hey there, I'm SAINIK 👋
 
-[![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/_p0lar_bear)
-[![linkedin badge](https://img.shields.io/badge/linkedin-yashk2000-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/yashk2000/)
+[![twitter badge](https://img.shields.io/badge/twitter-_p0lar_bear-0077b5?style=social&logo=twitter)](https://twitter.com/SainikKnight)
+[![linkedin badge](https://img.shields.io/badge/linkedin-yashk2000-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/sainik-khaddar-2295a31b6/)
 [![blog badge](https://img.shields.io/badge/blog-yashk2000.github.io/blog-1f425f?style=social)](https://yashk2000.github.io/blog)
 
 ![](https://komarev.com/ghpvc/?username=yashk2000)
