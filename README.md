@@ -30,7 +30,7 @@
 <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
 
 </br>
-## Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://twitter.com/adwaitaraj001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adwaitaraj001" height="30" width="40" /></a>&nbsp
 <a href="https://linkedin.com/in/adwaita raj modak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
