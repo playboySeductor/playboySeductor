@@ -36,7 +36,6 @@
 <a href="https://www.linkedin.com/in/sainik-khaddar-2295a31b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adwaita raj modak" height="30" width="40" /></a>&nbsp
 <a href="https://www.hackerrank.com/adwaitaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adwaitaraj" height="30" width="40" /></a>&nbsp
 <a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/63670791?s=200&v=4" alt="rajmodak" height="30" width="40" /></a>&nbsp
-
 <a href="https://www.leetcode.com/rajmodak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajmodak" height="30" width="40" /></a>&nbsp
 <a href="https://auth.geeksforgeeks.org/user/adwaitaraj/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adwaitaraj/profile" height="30" width="40" /></a>&nbsp
 </p>
