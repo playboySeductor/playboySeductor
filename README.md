@@ -5,6 +5,7 @@
 ### Hola codefreaks, I'm SAINIK 👋
 
 [![twitter badge](https://img.shields.io/badge/twitter-SAINIK_KNIGHT-0077b5?style=social&logo=twitter)](https://twitter.com/SainikKnight)
+<i>TALK IS CHEAP. SHOW ME THE CODE</i>
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I'm figuring out how machines actually learn and how to teach them better. 
