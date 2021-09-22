@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
 
-### Hey there, I'm SAINIK 👋
+### Hola codefreaks, I'm SAINIK 👋
 
 [![twitter badge](https://img.shields.io/badge/twitter-SAINIK_KNIGHT-0077b5?style=social&logo=linkedin)](https://twitter.com/SainikKnight)
 [![linkedin badge](https://img.shields.io/badge/linkedin-WarriorKnightCodefreak-0077b5?style=social&logo=linkedin)](https://www.linkedin.com/in/sainik-khaddar-2295a31b6/)
