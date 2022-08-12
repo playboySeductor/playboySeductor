@@ -12,10 +12,7 @@
 <a href="https://dreamacademia.netlify.app">
 <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQG8Xb_v6S2kIw/company-logo_200_200/0/1629757257226?e=2147483647&v=beta&t=UCH4dJ2Z7A_0H8lcMEo5-5_KI8EkrGPRlp1FSZ1oIwk">
 </a>
-&nbsp
-<a href="https://otpyrcn.netlify.app/">
-<img src="https://otpyrcn.netlify.app/static/media/logo.742d070f.jpeg">
-</a>
+
 
 
 ## 🙋‍♂️ About Me
@@ -54,6 +51,9 @@
 <a href="https://www.coursera.org/user/4bc1a3cb0b0ed7a4500a621699783447"><img align="center" src="https://about.coursera.org/images/logos/coursera-logo-full-rgb.png" alt="adwaitaraj/profile" height="30" width="40" /></a>&nbsp 
 </p>
 </br></br>
+
+## 💯 My Contribution Graph:
+[![Sainik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sainik-khaddar)](https://github.com/sainik-khaddar/github-readme-activity-graph)
 
 ## 🚀 Languages and Tools:
 
