@@ -6,24 +6,29 @@
 <i>TALK IS CHEAP. SHOW ME THE CODE</i>
 <br>
 <br>
-<img src="https://www.theaccessgroup.com/media/33117/darkweb_820x460_mainimage.jpg?width=820&height=460&mode=crop">
+<img src="https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg">
 <br>
 ## 📚 My StartUp
 <a href="https://dreamacademia.netlify.app">
-<img src="https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg">
+<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQG8Xb_v6S2kIw/company-logo_200_200/0/1629757257226?e=2147483647&v=beta&t=UCH4dJ2Z7A_0H8lcMEo5-5_KI8EkrGPRlp1FSZ1oIwk">
 </a>
+&nbsp
+<a href="https://otpyrcn.netlify.app/">
+<img src="https://otpyrcn.netlify.app/static/media/logo.742d070f.jpeg">
+</a>
+
 
 ## 🙋‍♂️ About Me
 
 - 👨‍💻 I'm a coding enthusiast who likes exploring every bits and pieces of the programming world. 
-- 🎁 I’m currently learning competitive programming alongside DSA.
-- 🙇‍♂️ I'm into learning about deep learning, computer vision and have recently started exploring various branches of AI-ML. 
-- 🔭 I also know frontend developement (HTML, CSS, JS) and I'm currently learning MERN & PHP-MYSQL
-- 💬 Ask me about open source, computer vision, machine learning & web-developement.
+- 🎁 I’m currently learning algorithms,competitive programming alongside DSA.
+- 🙇‍♂️ I'm into learning about blockchain, improving my concepts of reactjs and nodejs (Full-stack developement). 
+- 🔭 I also know machine learning and have done quite a few projects on deep learning, neural networks and computer vision.
+- 💬 Ask me about open source, business, product management,machine learning & web-developement.
 - 📫 How to reach me: Send an email to me at [sainikwarror132@gmail.com](mailto:sainikwarror132@gmail.com) or dm me on Instagram, [@warriorknightcodefreak]
 - ⚡ Fun fact: I'm a gamer by birth but a coder by choice.
-- 📝 I'm willing to colleborate on any MACHINE LEARNING or DEEP LEARNING PROJECTS or full stack developement projects/workshops or any electrical projects
-- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="rajadwaita" /></a> </p>
+- 📝 I'm willing to colleborate on any MACHINE LEARNING or DEEP LEARNING PROJECTS or full stack developement projects/workshops.
+- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="sainik-khaddar" /></a> </p>
 
 </br>
 
