@@ -8,10 +8,8 @@
 <br>
 <img src="https://cdn.mos.cms.futurecdn.net/9QTpESGBXa32D29J77VR3d.jpg">
 <br>
-## 📚 My StartUp
-<a href="https://dreamacademia.netlify.app">
-<img src="https://media-exp1.licdn.com/dms/image/C4E0BAQG8Xb_v6S2kIw/company-logo_200_200/0/1629757257226?e=2147483647&v=beta&t=UCH4dJ2Z7A_0H8lcMEo5-5_KI8EkrGPRlp1FSZ1oIwk">
-</a>
+## 📚 My OpenSource Badges
+
 
 [![@warrior_knight's Holopin board](https://holopin.io/api/user/board?user=warrior_knight)](https://holopin.io/@warrior_knight)
 
