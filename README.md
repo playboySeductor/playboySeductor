@@ -7,19 +7,21 @@
 </h1>
 <br>
 <p>
-   👋I'm Sainik I'm a final year student pursuing Bachelors's in Electrical Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that, I also love to listen music 🎵 and play with data 🎮. I'm currently into Full stack Web Development 🕸️ and working on deep-learning and Machine learning in python 🐍.
+   👋I'm a final year student pursuing Bachelors's in Electrical Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that, I also love to listen music 🎵 and play with data 🎮. I'm currently into Full stack Web Development 🕸️ and working on deep-learning and Machine learning in python 🐍.
 </p>
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="150px" height="250px" /> -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">Talking about Personal Stuffs:
 
-- 🎓 I am a **student**.
+- 🎓 I am a **coding enthusiast** who likes exploring every bits and pieces of the programming world. 
 - 💻 Major is **Electrical**.
 - 🌱 I'm currently working on **Web development and Machine-learning**. 
 - 👨‍💻 I'm into **competitive programming** (**1796**-LC, **1884**-CC, **Expert(1804)**-CF, **Specialist**-CN)
 - 🤔 My hobbies are **listen music 🎵 and play games🎮**.
 - 📝 Know more about me on **[My website](https://sainik.netlify.app/)**
+- 💬 I’m looking to collaborate on creative projects and on open source experiences
+- 📫 How to reach me: Send an email to me at [sainikwarror132@gmail.com](mailto:sainikwarror132@gmail.com) or dm me on Instagram, [@warriorknightcodefreak]
 - 💬 If you have any questions, **just ask me**.
 <!-- - btw I use Arch [<img src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/icons/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo" />](https://archlinux.org/) -->#
 
