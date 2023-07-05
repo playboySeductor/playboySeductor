@@ -31,7 +31,7 @@
 [![@warrior_knight's Holopin board](https://holopin.io/api/user/board?user=warrior_knight)](https://holopin.io/@warrior_knight)
 
 
-- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="sainik-khaddar" /></a> </p>
+- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=playboySeductor" alt="sainik-khaddar" /></a> </p>
 
 </br>
 
