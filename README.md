@@ -30,17 +30,7 @@
 
 [![@warrior_knight's Holopin board](https://holopin.io/api/user/board?user=warrior_knight)](https://holopin.io/@warrior_knight)
 
-## 🙋‍♂️ About Me
 
-- 👨‍💻 I'm a coding enthusiast who likes exploring every bits and pieces of the programming world. 
-- 🎁 I’m currently learning algorithms,competitive programming alongside DSA.
-- 🙇‍♂️ I'm into learning about blockchain, improving my concepts of reactjs and nodejs (Full-stack developement). 
-- 🔭 I also know machine learning and have done quite a few projects on machine-learning, neural networks and computer vision.
-- 💬 I’m looking to collaborate on creative projects and on open source experiences
-- 📫 How to reach me: Send an email to me at [sainikwarror132@gmail.com](mailto:sainikwarror132@gmail.com) or dm me on Instagram, [@warriorknightcodefreak]
-- ⚡ Fun fact: I'm a gamer by birth but a coder by choice.
-- 📝 I'm willing to colleborate on any MACHINE LEARNING ,DEEP LEARNING PROJECTS and full stack developement projects/workshops.
-- 🎁 I am interested in learning blockchain and cloud-computing, kubernets and wish to learn them in near future
 - <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sainik-khaddar" alt="sainik-khaddar" /></a> </p>
 
 </br>
