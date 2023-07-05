@@ -80,7 +80,6 @@
 <a href="#"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
-<a href="https://www.java.com/"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat"></a>
 <a href="https://www.markdownguide.org/"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat"></a>
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
@@ -128,14 +127,8 @@
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text-FF9800?logo=sublimetext&logoColor=fff&style=flat"></a>
 <a href="#"><img src="https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff&style=flat" alt="PyCharm Badge"></a>
 </p>
+<h2>💻 Other Technologies</h2>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -157,34 +150,67 @@
 <!-- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  -->
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 
 </br>
 </br>
 
-## 📊 My Github Stats
+<h2>📊 Github Stats and Activity</h2>
 
+<h3>🔥 Streak Stats</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sainik-khaddar&label=Profile%20views&color=0e75b6&style=flat" alt="rajadwaita" /> </p> -->
-<!--   <img align="centre"  src="https://github-readme-stats.vercel.app/api?username=RajAdwaita&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" style="max-width:100%" float="right"> -->
-  
-  <p align="center"> 
-<a href="https://github.com/sainik-khaddar/github-readme-activity-graph"><img alt="Sainik's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sainik-khaddar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-  
-<!--   <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainik-khaddar&theme=light&hide_langs_below=1" style="max-width:100%" style="margin-left:225px"> -->
-   <!-- 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainik-khaddar&show_icons=true&locale=en&layout=compact&bg_color=191919&text_color=daf7dc" alt="rajadwaita" /></p> -->
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=sainik-khaddar&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="rajadwaita" />
+<p>
+<a href="#">
+<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=playboySeductor&theme=dracula&hide_border=true&background=000000EE"/>
+</a>
 </p>
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sainik-khaddar&show_icons=true&locale=en" alt="rajadwaita" /></p> -->
-</br>
-<p align="center">
- <a>
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sainik-khaddar&&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="rajadwaita" /></a>
+<h3>💻 GitHub Profile Stats</h3>
+
+<p>
+<a href="#"><img alt="Sainik's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=playboySeductor&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=playboySeductor&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
+<!--START_SECTION:waka-->
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌆 Daytime                76 commits          ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌃 Evening                119 commits         ███████████░░░░░░░░░░░░░░   44.07 % 
+🌙 Night                  30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Markdown                 3 hrs 41 mins       ████████████████░░░░░░░░░   62.08 % 
+JavaScript               1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+YAML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+Python                   11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+
+💻 Operating System: 
+Linux                    5 hrs 57 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/04/2023 09:07:31 UTC
+<!--END_SECTION:waka-->
+<br>
+
+<p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
 
 
 <p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/Fintechtocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/privateinvestocat.jpg" height="160px" width="160px"> <img src="https://octodex.github.com/images/heisencat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
