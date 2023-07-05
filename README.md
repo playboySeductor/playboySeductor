@@ -30,6 +30,7 @@
 
 [![@warrior_knight's Holopin board](https://holopin.io/api/user/board?user=warrior_knight)](https://holopin.io/@warrior_knight)
 
+<br>
 
 - <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=playboySeductor" alt="sainik-khaddar" /></a> </p>
 
@@ -39,9 +40,9 @@
  ## ❤ Views and Followers
   <p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sainik-khaddar">
+    <img src="https://komarev.com/ghpvc/?username=playboySeductor">
 </a>
-<a href="https://github.com/RajAdwaita?tab=followers"><img src="https://img.shields.io/github/followers/RajAdwaita?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/playboySeductor?tab=followers"><img src="https://img.shields.io/github/followers/playboySeductor?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 
