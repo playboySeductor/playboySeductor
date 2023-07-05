@@ -7,7 +7,7 @@
 </h1>
 <br>
 <p>
-   👋I'm a final year student pursuing Bachelors's in Electrical Engineering 🎓 . I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that, I also love to listen music 🎵 and play with data 🎮. I'm currently into Full stack Web Development 🕸️ and working on deep-learning and Machine learning in python 🐍.
+   👋I'm a final year student pursuing Bachelors's in Electrical Engineering 🎓. I love to explore new technologies and try to solve real-life problems 🚀. Apart from that, I also love to listen music 🎵 and play with data 🎮. I'm currently into Full stack Web Development 🕸️ and working on deep-learning and Machine learning in python 🐍.
 </p>
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/vibrantfix/vibrantfix/main/assets/gif/lain.gif" width="150px" height="250px" /> -->
@@ -30,11 +30,13 @@
 
 [![@warrior_knight's Holopin board](https://holopin.io/api/user/board?user=warrior_knight)](https://holopin.io/@warrior_knight)
 
-<br>
-
-- <p align="left">&nbsp <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=playboySeductor" alt="sainik-khaddar" /></a> </p>
-
-</br>
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=playboySeductor&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
 
 
  ## ❤ Views and Followers
@@ -68,7 +70,8 @@
 </br></br>
 
 ## 💯 My Contribution Graph:
-[![Sainik's github activity graph](https://activity-graph.herokuapp.com/graph?username=playboySeductor)](https://github.com/playboySeductor/github-readme-activity-graph)
+
+[![Sainik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=playboySeductor&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🚀 Languages and Tools:
 
@@ -209,6 +212,8 @@ Linux                    5 hrs 57 mins       ███████████�
  Last Updated on 13/04/2023 09:07:31 UTC
 <!--END_SECTION:waka-->
 <br>
+
+
 
 <p align="center"> <img src="https://profile-counter.glitch.me/{vibrantfix}/count.svg" alt="vibrantfix" /> </p>
 
