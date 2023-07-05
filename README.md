@@ -61,7 +61,7 @@
 </br></br>
 
 ## 💯 My Contribution Graph:
-[![Sainik's github activity graph](https://activity-graph.herokuapp.com/graph?username=sainik-khaddar)](https://github.com/sainik-khaddar/github-readme-activity-graph)
+[![Sainik's github activity graph](https://activity-graph.herokuapp.com/graph?username=playboySeductor)](https://github.com/playboySeductor/github-readme-activity-graph)
 
 ## 🚀 Languages and Tools:
 
