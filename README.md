@@ -171,9 +171,9 @@
 <h3>💻 GitHub Profile Stats</h3>
 
 <p>
-<a href="#"><img alt="Sainik's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=tokyonight" height="192px"/>
+<a href="#"><img alt="Sainik's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=playboySeductor&layout=pie&theme=tokyonight" height="192px"/>
    
-<a href="#"><img alt="Sainik's Top Languages" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight" height="192px"/></a> 
+<a href="#"><img alt="Sainik's Top Languages" src="https://github-readme-stats.vercel.app/api?username=playboySeductor&show_icons=true&theme=tokyonight" height="192px"/></a> 
 <!--    ![Sainik's GitHub stats](https://github-readme-stats.vercel.app/api?username=playboySeductor&show_icons=true&theme=tokyonight) -->
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
