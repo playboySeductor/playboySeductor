@@ -164,15 +164,15 @@
 
 <p>
 <a href="#">
-<img alt="Yogesh's streak" src="https://streak-stats.demolab.com/?user=playboySeductor&theme=dracula&hide_border=true&background=000000EE"/>
+<img alt="Sainik's streak" src="https://streak-stats.demolab.com/?user=playboySeductor&theme=dracula&hide_border=true&background=000000EE"/>
 </a>
 </p>
 
 <h3>💻 GitHub Profile Stats</h3>
 
 <p>
-<a href="#"><img alt="Sainik's Github Stats" src="https://github-readme-stats-vibrantfix.vercel.app/api?username=playboySeductor&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Yogesh's Top Languages" src="https://github-readme-stats-vibrantfix.vercel.app/api/top-langs?username=playboySeductor&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<a href="#"><img alt="Sainik's Github Stats" src="https://github-readme-stats-playboySeductor.vercel.app/api?username=playboySeductor&locale=en&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Sainik's Top Languages" src="https://github-readme-stats-playboySeductor.vercel.app/api/top-langs?username=playboySeductor&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=000000EE&title_color=FF72FF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 <br/>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
